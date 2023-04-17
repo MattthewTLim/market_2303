@@ -98,7 +98,7 @@ describe "#date" do
 end
 
 describe "#sell" do
-  it "buys items from vendors when stock is low" do
+  it "sells items from vendors when stock is low" do
     
   end
 end
