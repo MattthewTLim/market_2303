@@ -186,7 +186,7 @@ Use TDD to update your Market class to include the following methods:
 
 ## Iteration 4 - Selling Items
 
-There are **2** features in Iteration 3:
+There are **2** features in Iteration 4:
 1. Market #date
 2. Market #sell
 
